@@ -58,3 +58,4 @@ Clone this repository and open the Power BI file to explore the dashboard. The i
 
 ## Conclusion
 This HR Analytics Dashboard serves as a powerful tool for organizations to monitor and address employee turnover, leading to more informed HR strategies and improved retention efforts.
+![image alt](https://github.com/manikantancodes/HR-Analytics-PowerBI-Dashboard/blob/5e916e86faa4eb300e1f4e59b11706ad5a7c6872/HR-analytics-Dashboard.png)
